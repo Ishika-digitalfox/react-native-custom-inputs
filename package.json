@@ -1,0 +1,25 @@
+{
+  "name": "react-native-custom-inputs",
+  "version": "1.0.0",
+  "description": "react native custom inputs library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.averybit.com/pranav.onkar/react-native-custom-inputs"
+  },
+  "keywords": [
+    "react-native-custom-inputs"
+  ],
+  "author": "Pranav Onkar",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.3.4",
+    "@types/react-native": "^0.73.0",
+    "react": "^18.3.1",
+    "react-native": "^0.75.2",
+    "typescript": "^5.5.4"
+  }
+}
